@@ -1,3 +1,3 @@
-# Solidity by example Practise and Notes
+# Solidity by example Practice and Notes
 
 Syntax, concepts and basics of Solidity

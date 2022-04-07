@@ -1,4 +1,4 @@
-pragma ^0.8.13;
+pragma solidity ^0.8.13;
 
 
 
@@ -10,7 +10,7 @@ contract FunctionModifier {
     
     constructor() {
         // Set Transaction sender as the owner of the contract 
-        owner - msg.sender;
+        owner = msg.sender;
     }
 
 
